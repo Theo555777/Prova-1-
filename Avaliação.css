@@ -7,7 +7,7 @@
     grid-template: 
     "logo nav nav" 
     "sidebar content content" 
-    "footer footer footer" / 12em ;
+    "footer footer footer" / 15em ;
   }
   .stretch{
     justify-content: stretch
@@ -30,7 +30,7 @@
   }
 
   .logocarros{
-    padding: 3px;
+    padding: 5px;
     width: 7rem;
   }
   
